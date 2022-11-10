@@ -1,0 +1,5 @@
+
+
+desencripta para obtener pass y hash del rar 1
+
+      primer descript 	 01100010 00110100 01101110 01100100 00110001 01100100 00110000
